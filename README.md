@@ -6,7 +6,9 @@
  1) Instalar bibliotecas com o comando: 
   - pip install -r requirements.txt (sistemas Windows)
   - pip3 install -r requirements.txt (sistemas Unix)
- 2) Na pasta raiz, iniciar o servidor Django com o comando: python manage.py runserver
+ 2) Na pasta raiz, iniciar o servidor Django com o comando: 
+  - python manage.py runserver (sistemas Windows)
+  - python3 manage.py runserver (sistemas Unix)
  3) Na pasta "PyQt" e em um terminal de comando separado, iniciar a aplicação GUI com o comando: 
   - python CreativeDrive.py (sistemas Windows)
   - python3 CreativeDrive.py (sistemas Unix)
