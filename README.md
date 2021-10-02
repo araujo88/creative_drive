@@ -10,9 +10,9 @@
  3) Na pasta "PyQt" e em um terminal de comando separado, iniciar a aplicação GUI com o comando: 
   - python CreativeDrive.py (sistemas Windows)
   - python3 CreativeDrive.py (sistemas Unix)
- 
- Dados de login:
+ 4) Fazer login com os seguintes dados:
   - Usuário: admin
   - Senha: 1234abcd*
+ 5) Os uploads feitos através da aplicação estarão disponíveis na pasta "uploads"
 
 *Obs.: O servidor local Django precisa estar rodando ao mesmo tempo que a aplicação GUI.
