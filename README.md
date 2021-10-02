@@ -14,3 +14,5 @@
  Dados de login:
   - Usuário: admin
   - Senha: 1234abcd*
+
+*Obs.: O servidor local Django precisa estar rodando ao mesmo tempo que a aplicação GUI.
