@@ -1,0 +1,7 @@
+requests==2.25.1
+djangorestframework_simplejwt==4.8.0
+tqdm==4.62.3
+Django==3.2.6
+requests_toolbelt==0.9.1
+djangorestframework==3.12.4
+PyQt5==5.15.4
